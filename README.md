@@ -24,3 +24,14 @@ Encrypted: KHOOR
 Encrypted: KHOOR
 Shift: 3
 Decrypted: HELLO
+
+
+## 🛠 Installation & Usage  
+
+### 📥 Clone the Repository  
+Open your terminal and run the following command:  
+```bash
+git clone https://github.com/your-username/caesar-cipher.git
+cd caesar-cipher
+
+python caesar_cipher.py
