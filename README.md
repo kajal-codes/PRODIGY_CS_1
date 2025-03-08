@@ -31,10 +31,11 @@ Decrypted: HELLO
 ### 📥 Clone the Repository  
 Open your terminal and run the following command:  
 ```bash
+pip install streamlit
 git clone https://github.com/your-username/caesar-cipher.git
 cd caesar-cipher
 
-python caesar_cipher.py
+streamlit run app.py
 ```
 
 ## 📬 Contact  
