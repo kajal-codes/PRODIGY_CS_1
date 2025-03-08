@@ -37,8 +37,9 @@ cd caesar-cipher
 python caesar_cipher.py
 ```
 
-## 📬 Contact
+## 📬 Contact  
 
-For any queries, reach out via:
--📧 Email: kajalnachanekar@gmail.com
--🌐 GitHub: https://github.com/kajal-codes
+For any queries, reach out via:  
+📧 Email: [kajalnachanekar@gmail.com](mailto:kajalnachanekar@gmail.com)  
+🌐 GitHub: [github.com/kajal-codes](https://github.com/kajal-codes)
+
