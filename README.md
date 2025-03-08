@@ -35,11 +35,9 @@ git clone https://github.com/your-username/caesar-cipher.git
 cd caesar-cipher
 
 python caesar_cipher.py
+```
 
-
----
-
-### **📬 Contact**  
+## 📬 Contact
 
 For any queries, reach out via:
 📧 Email: kajalnachanekar@gmail.com
