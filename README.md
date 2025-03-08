@@ -35,7 +35,7 @@ pip install streamlit
 git clone https://github.com/your-username/caesar-cipher.git
 cd caesar-cipher
 
-streamlit run app.py
+streamlit run caesar_cipher.py
 ```
 
 ## 📬 Contact  
