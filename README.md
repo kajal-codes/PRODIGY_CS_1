@@ -40,5 +40,5 @@ python caesar_cipher.py
 ## 📬 Contact
 
 For any queries, reach out via:
-📧 Email: kajalnachanekar@gmail.com
-🌐 GitHub: https://github.com/kajal-codes
+-📧 Email: kajalnachanekar@gmail.com
+-🌐 GitHub: https://github.com/kajal-codes
